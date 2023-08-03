@@ -288,7 +288,7 @@ const messages = {
           tickets: "Tickets",
           contacts: "Contactos",
           quickAnswers: "Respuestas rápidas",
-          queues: "Linhas",
+          queues: "Colas",
           administration: "Administración",
           users: "Usuarios",
           settings: "Configuración",
@@ -304,7 +304,7 @@ const messages = {
         noTickets: "Sin notificaciones.",
       },
       queues: {
-        title: "Linhas",
+        title: "Colas",
         table: {
           name: "Nombre",
           color: "Color",

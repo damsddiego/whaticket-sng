@@ -217,7 +217,7 @@ const LoggedInLayout = ({ children }) => {
             noWrap
             className={classes.title}
           >
-            WhaTicket
+            WSNG
           </Typography>
           {user.id && <NotificationsPopOver />}
 
